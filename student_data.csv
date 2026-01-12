@@ -1,0 +1,11 @@
+student_id,name,age,gender,class,section,city,maths,science,english
+1,Aman Sharma,18,Male,12,A,Delhi,78,82,75
+2,Priya Singh,17,Female,11,B,Mumbai,88,91,85
+3,Rahul Verma,19,Male,12,A,Jaipur,65,70,68
+4,Neha Gupta,18,Female,12,C,Bangalore,92,89,90
+5,Arjun Mehta,17,Male,11,A,Ahmedabad,55,60,58
+6,Pooja Yadav,18,Female,12,B,Lucknow,80,77,83
+7,Karan Patel,19,Male,12,A,Surat,72,68,70
+8,Simran Kaur,17,Female,11,C,Amritsar,90,94,92
+9,Aditya Rao,18,Male,12,B,Hyderabad,85,88,84
+10,Ritu Mishra,17,Female,11,A,Bhopal,76,79,81
